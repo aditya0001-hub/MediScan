@@ -35,6 +35,6 @@ Reading small printed labels or understanding complex medical terms is a big cha
 
 ## 🌐 Live Demo
 
-> 🔗 Coming Soon (Deploy on [Vercel](https://vercel.com/)
+> 🔗 Coming Soon (Deploy on [Vercel]([https://vercel.com/](https://mediscan-flame.vercel.app/))
 
 
