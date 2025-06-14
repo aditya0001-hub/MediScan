@@ -27,7 +27,7 @@ Reading small printed labels or understanding complex medical terms is a big cha
 |------|------------|
 | **Frontend** | React.js |
 | **QR Scanner** | `html5-qrcode`, `Gemini` |
-| **External API** | [OpenFDA](https://aistudio.google.com/apikey) Gemini |
+| **External API** | [Gemini](https://aistudio.google.com/apikey)|
 
 
 
