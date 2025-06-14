@@ -25,11 +25,9 @@ Reading small printed labels or understanding complex medical terms is a big cha
 
 | Area | Technology |
 |------|------------|
-| **Frontend** | React.js, TailwindCSS |
-| **QR Scanner** | `html5-qrcode`, `react-qr-reader` |
-| **Backend** | Node.js with Express or Firebase |
-| **Database** | MongoDB / Firebase Realtime DB |
-| **External API** | [OpenFDA](https://open.fda.gov/apis/drug/) or custom medicine data |
+| **Frontend** | React.js |
+| **QR Scanner** | `html5-qrcode`, `Gemini` |
+| **External API** | [OpenFDA](https://aistudio.google.com/apikey) Gemini |
 
 
 
