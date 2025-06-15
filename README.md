@@ -1,17 +1,3 @@
-<<<<<<< HEAD
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
 # MediScan
 A healthcare web app that scans medicine QR codes and instantly provides detailed information about its uses, dosage, side effects, warnings, and more. Built during my hackation to solve real-world problems in medicine accessibility and health awareness.
 
@@ -21,17 +7,17 @@ A healthcare web app that scans medicine QR codes and instantly provides detaile
 
 ## 🌟 Features
 
-- 📷 **QR Code Scanning** – Scan medicine QR codes via phone camera or webcam
-- 💊 **Medicine Details** – Name, uses, dosage, manufacturer info
-- ⚠️ **Warnings & Side Effects** – Allergies, interactions, and health warnings
-- 🦠 **Disease Info** – See which illness/condition the medicine treats
-- 🔍 **Clean UI** – Simple and accessible interface for everyone
+- 📷 *QR Code Scanning* – Scan medicine QR codes via phone camera or webcam
+- 💊 *Medicine Details* – Name, uses, dosage, manufacturer info
+- ⚠ *Warnings & Side Effects* – Allergies, interactions, and health warnings
+- 🦠 *Disease Info* – See which illness/condition the medicine treats
+- 🔍 *Clean UI* – Simple and accessible interface for everyone
 
 
 
 ## 💡 Why MedScope?
 
-Reading small printed labels or understanding complex medical terms is a big challenge for many people—especially seniors or those without a medical background. **MedScope solves this by enabling users to instantly access all important medicine info by simply scanning a QR code.**
+Reading small printed labels or understanding complex medical terms is a big challenge for many people—especially seniors or those without a medical background. *MedScope solves this by enabling users to instantly access all important medicine info by simply scanning a QR code.*
 
 
 
@@ -39,15 +25,12 @@ Reading small printed labels or understanding complex medical terms is a big cha
 
 | Area | Technology |
 |------|------------|
-| **Frontend** | React.js |
-| **QR Scanner** | `html5-qrcode`, `Gemini` |
-| **External API** | [Gemini](https://aistudio.google.com/apikey)|
+| *Frontend* | React.js |
+| *QR Scanner* | html5-qrcode, Gemini |
+| *External API* | [Gemini](https://aistudio.google.com/apikey)|
 
 
 
 ## 🌐 Live Demo
 
 > 🔗 (Deploy on [Vercel](https://mediscan-flame.vercel.app/))
-
-
->>>>>>> e036c442eab7467ec415fb38628dfa570c346c2e
